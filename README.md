@@ -36,5 +36,8 @@
    
       -> Analyzing US Economic Data and building a Dashboard 
       
- #### Final Assignment - Results : 
+ #### Final Assignment - Results :
+ 
       
+![](/Python-for-Data-Science-and-IA_Coursera/Final_Dashboard.png)
+<img src=”Python-for-Data-Science-and-IA_Coursera/Final_Dashboard.png”>
