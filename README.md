@@ -39,5 +39,5 @@
  #### Final Assignment - Results :
  
       
-![](/Python-for-Data-Science-and-IA_Coursera/Final_Dashboard.png)
-<img src=”Python-for-Data-Science-and-IA_Coursera/Final_Dashboard.png”>
+![](/Python-for-Data-Science-and-IA_Coursera/Final_Dashboard.PNG)
+<img src=”Python-for-Data-Science-and-IA_Coursera/Final_Dashboard.PNG”>
