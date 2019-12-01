@@ -38,6 +38,4 @@
       
  #### Final Assignment - Results :
  
-      
-![](/Desktop/Python-for-Data-Science-and-IA_Coursera/Final_Dashboard.PNG)
-<img src=”/Desktop/Python-for-Data-Science-and-IA_Coursera/Final_Dashboard.PNG”>
+![Final_Dashboard](https://user-images.githubusercontent.com/44439904/69922023-04a7f000-1477-11ea-9575-5ad1f9369b4e.PNG)
