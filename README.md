@@ -1,6 +1,6 @@
 # Python-for-Data-Science-and-IA_Coursera
 
-#Topics
+# Topics
 
 ### 1. Week One
 
@@ -36,5 +36,5 @@
    
       -> Analyzing US Economic Data and building a Dashboard 
       
-      Final Assignment: 
+ #### Final Assignment - Results : 
       
